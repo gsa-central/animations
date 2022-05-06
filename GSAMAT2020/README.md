@@ -7,6 +7,7 @@
 https://user-images.githubusercontent.com/55085759/167189574-ed8b682c-6d2d-48aa-ad9c-7ab64b78e8db.mp4
 
 **GSA2:** : Pathway databases [Here](https://github.com/gsa-central/animations/tree/main/GSAMAT2020/GSA2.mp4)
+https://user-images.githubusercontent.com/55085759/167191473-684917e5-fa08-48fd-9ff6-0a2644d20afd.mp4
 
 **GSA3:** : Gene ontology and gene set databases [Here](https://github.com/gsa-central/animations/tree/main/GSAMAT2020/GSA3.mp4)
 
