@@ -2,7 +2,7 @@
 
 # Animated Lessons --GSAMAT 2020
 
-**GSA1:** : Biological annotation databases [Here](https://github.com/gsa-central/animations/tree/main/GSAMAT2020/GSA2.mp4)
+**GSA1:** : Biological annotation databases [Here](https://github.com/gsa-central/animations/blob/main/GSAMAT2020/GSA1.mp4)
 
 https://user-images.githubusercontent.com/55085759/167189574-ed8b682c-6d2d-48aa-ad9c-7ab64b78e8db.mp4
 
