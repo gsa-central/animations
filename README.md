@@ -1,2 +1,1 @@
-# animations
-GSA animated lessons
+
